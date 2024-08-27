@@ -11,5 +11,5 @@ This project use another java open source project [Jaffree](https://github.com/k
 ## Usage ##
 run with maven and pass the URL or filepath as parameter to extract it's media properties. e.g
 
-***mvn spring-boot:run -Drun.arguments=--mediaPath="https://tmbidigitalassetsazure.blob.core.windows.net/wpvideos/10 Kitchen Cabinet Storage Ideas Upgrades to Try.mp4"***
+`mvn spring-boot:run -Drun.arguments=--mediaPath="https://tmbidigitalassetsazure.blob.core.windows.net/wpvideos/10 Kitchen Cabinet Storage Ideas Upgrades to Try.mp4"`
 
